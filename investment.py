@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 amount = float(input("Enter amount: ")) 
-# 输入数额
+# 输 入 数 额
 inrate = float(input("Enter Interest rate: "))  
-# 输入利率
+# 输 入 利 率
 period = int(input("Enter period: ")) 
-# 输入期限
+# 输 入 期 限
 value = 0
 year = 1
 while year <= period:
